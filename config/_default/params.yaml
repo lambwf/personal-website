@@ -63,15 +63,14 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
-
+address_format: en-uk
 # Site features
 
 highlight: true
