@@ -19,8 +19,10 @@ organizations:
 # Interests to show in About widget
 interests:
 - Climate change mitigation
-- Computational Linguistics
-- Information Retrieval
+- Political economy
+- Emissions trends
+- Human well-being
+- Discourses of climate delay
 
 # Education to show in About widget
 # education:
@@ -67,8 +69,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a researcher at the Mercator Research Institute for Global Commons and Climate Change (MCC). 
+I am a researcher at the Mercator Research Institute for Global Commons and Climate Change (MCC). I work in the field of climate change mitigation. The goal is to reduce greenhouse gas emissions as fast as possible in order to avoid catastrophic climate change.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my opinion the key barriers to reducing emissions are political. I therefore focus my research on the political economy of climate change mitigation, in three specific areas: drivers, outcomes and discourses. I want to understand why some countries and economic sectors are particularly emissions intensive; or conversely, why others are not. Conceptualising, organising and analysing the different potential socio-economic and political drivers is a key challenge here. In terms of outcomes, I do descriptive research on emissions trends. I'm also interested in policy outcomes, in particular how climate policies shape society and have implications for human well-being. 
 
-
+My work on discourses was born from observing how climate change mitigation is discussed in the public sphere. It is not unusual to see declarations that x or y country is a "climate leader", that climate policies will "cost us jobs", or that "we are only 2% of global emissions". My colleagues and I call this "climate delay", a now common form of climate misinformation. I am currently pursuing several projects where we code climate delay arguments in large bodies of text, to better understand how we might identify and counter these discourses.
